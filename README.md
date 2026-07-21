@@ -1,34 +1,41 @@
-# Goes by Guiga.
-💡 Biomedical Engineer | 🧠 AI & ML Enthusiast | ☕ Coffee-fueled Coder 
+# Med Dhia — Guiga
 
-### 🛠️ About Me
-- 🎓 Biomedical Engineering grad navigating the AI universe 🌌
-- 🖥️ Love experimenting with code, from algorithms to clever tech
-- 📚 Lifelong learner and sci-fi fan 🤓
+Data scientist working on applied machine learning: computer vision, NLP, and model interpretability.
+MSc Informatics for Data Science, Free University of Bozen-Bolzano.
 
 ---
 
-### 💻 Skills & Tools
-- **Languages**: Python, C++ 
-- **Frameworks**: TensorFlow, PyTorch, scikit-learn
-- **Tools**: Jupyter, Git, VS Code
+### What I build
+
+**[Project name]** — CNN-based image classification, from preprocessing through evaluation.
+Achieved [X] on [dataset]. `PyTorch` `OpenCV`
+→ [repo](link)
+
+**[Project name]** — Transformer fine-tuning for [task]. [One concrete result.]
+`Hugging Face` `PyTorch`
+→ [repo](link)
+
+**[Project name]** — Explainability pipeline using SHAP to surface which features drive model
+decisions across patient subgroups. Published as a reproducible Jupyter Book.
+`scikit-learn` `SHAP`
+→ [repo](link) · [live](link)
 
 ---
 
-### 🚀 Current Goals
-- 🌱 Deep-diving into NLP and computer vision  
-- 🎶 Exploring ML for music and audio  
-- 🤖 Creating quirky, techy side projects  
+### Stack
+
+**Languages** Python, C++, JavaScript/TypeScript
+**ML** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, SHAP
+**Data** pandas, NumPy, KNIME
+**Web** React
 
 ---
 
-### 📬 Find Me Here
-- 🌐 [LinkedIn](https://www.linkedin.com/in/meddhia99/)  
-- ✉️ [Email Me](mailto:anoirrz900@gmail.com)  
+### Currently
+
+Building end-to-end ML applications — deployed and reproducible, not just notebooks.
+Open to internships and freelance work in ML engineering and data science.
 
 ---
-> 🌌 "To be an extraordinary being, you need to do extraordinary things."  
-<!---
-CodeMeGuiga/CodeMeGuiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[Email](mailto:mrezgui@unibz.it)
