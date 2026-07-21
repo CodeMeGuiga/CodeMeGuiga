@@ -1,4 +1,4 @@
-# My people call me Guiga.
+# Goes by Guiga.
 💡 Biomedical Engineer | 🧠 AI & ML Enthusiast | ☕ Coffee-fueled Coder 
 
 ### 🛠️ About Me
