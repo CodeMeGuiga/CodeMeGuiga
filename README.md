@@ -1,4 +1,4 @@
-# Med Dhia — Guiga
+# Mohame Dhia AKA Guiga
 
 Data scientist working on applied machine learning: computer vision, NLP, and model interpretability.
 MSc Informatics for Data Science, Free University of Bozen-Bolzano.
@@ -7,15 +7,15 @@ MSc Informatics for Data Science, Free University of Bozen-Bolzano.
 
 ### What I build
 
-**[Project name]** — CNN-based image classification, from preprocessing through evaluation.
+**[Project name]**  CNN-based image classification, from preprocessing through evaluation.
 Achieved [X] on [dataset]. `PyTorch` `OpenCV`
 → [repo](link)
 
-**[Project name]** — Transformer fine-tuning for [task]. [One concrete result.]
+**[Project name]**  Transformer fine-tuning for [task]. [One concrete result.]
 `Hugging Face` `PyTorch`
 → [repo](link)
 
-**[Project name]** — Explainability pipeline using SHAP to surface which features drive model
+**[Project name]**  Explainability pipeline using SHAP to surface which features drive model
 decisions across patient subgroups. Published as a reproducible Jupyter Book.
 `scikit-learn` `SHAP`
 → [repo](link) · [live](link)
