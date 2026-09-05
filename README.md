@@ -16,6 +16,10 @@ Predicts Chronic Kidney Disease from 23 clinical measurements and layers on some
 A CNN that separates pneumonia from healthy chest X-rays. Simple idea, but a great excuse to get properly hands-on with image preprocessing and CNN architecture choices instead of just importing a pretrained model and calling it done.
 `TensorFlow/Keras` `OpenCV`
 
+**[Unsupervised Patient Subtyping from EHR Data](https://github.com/CodeMeGuiga/ehr-patient-clustering)**
+Clustering 8,000 synthetic hospital patients without any labels, and refusing to take the easy way there — instead of one-hot encoding everything into a fake Euclidean space, I compute a Gower distance matrix that handles mixed numerical/categorical data properly, run UMAP on top of *that*, and compare five algorithms (K-Means, DBSCAN, HDBSCAN, GMM, Agglomerative) with Gap Statistic and Dunn Index metrics I implemented from scratch, then stress-test cluster stability with bootstrap resampling before trusting any of it.
+`scikit-learn` `Gower distance` `UMAP` `HDBSCAN`
+
 ---
 
 ## 🗣️ NLP & language models
